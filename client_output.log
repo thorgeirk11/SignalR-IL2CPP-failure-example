@@ -1,0 +1,746 @@
+Initialize engine version: 2018.4.0f1 (b6ffa8986c8d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2100M (ID=0x11fc)
+    Vendor:   
+    VRAM:     2009 MB
+    Driver:   25.21.14.2545
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.066500 ms
+Debug, RegisteringHandler, Registering handler for client method 'MessageSent'., 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityLog:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger:<Log>g__LoggerLog|12_0(LogLevel, EventId, ILogger, Exception, Func`3, List`1&, TState&)
+Microsoft.Extensions.Logging.Logger:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger`1:Microsoft.Extensions.Logging.ILogger.Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.<>c__DisplayClass5_0`1:<Define>g__Log|0(ILogger, T1, Exception)
+Microsoft.Extensions.Logging.<>c__DisplayClass5_0`1:<Define>b__1(ILogger, T1, Exception)
+System.Action`3:Invoke(T1, T2, T3)
+Microsoft.AspNetCore.SignalR.Client.Log:RegisteringHandler(ILogger, String)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:On(String, Type[], Func`3, Object)
+Microsoft.AspNetCore.SignalR.Client.HubConnectionExtensions:On(HubConnection, String, Type[], Action`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnectionExtensions:On(HubConnection, String, Action`1)
+HubStuff:.ctor()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+HubStuff:Start()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BeginScope (7409c5c9-d099-4690-b5d9-f7c395b26f43): 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityLog:BeginScope(TState)
+System.Runtime.CompilerServices.RuntimeHelpers:IsReferenceOrContainsReferences()
+Microsoft.Extensions.Logging.Logger:BeginScope(TState)
+Microsoft.Extensions.Logging.Logger`1:Microsoft.Extensions.Logging.ILogger.BeginScope(TState)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsync(CancellationToken)
+HubStuff:.ctor()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+HubStuff:Start()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Debug, Starting, Starting HubConnection., 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityLog:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger:<Log>g__LoggerLog|12_0(LogLevel, EventId, ILogger, Exception, Func`3, List`1&, TState&)
+Microsoft.Extensions.Logging.Logger:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger`1:Microsoft.Extensions.Logging.ILogger.Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.<>c__DisplayClass4_0:<Define>b__0(ILogger, Exception)
+System.Action`2:Invoke(T1, T2)
+Microsoft.AspNetCore.SignalR.Client.Log:Starting(ILogger)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsyncCore(CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsyncInner(CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsync(CancellationToken)
+HubStuff:.ctor()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+HubStuff:Start()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BeginScope (0abcb0da-9922-4705-a18e-d2b0f0c61296): 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityLog:BeginScope(TState)
+System.Runtime.CompilerServices.RuntimeHelpers:IsReferenceOrContainsReferences()
+Microsoft.Extensions.Logging.Logger:BeginScope(TState)
+Microsoft.Extensions.Logging.Logger`1:Microsoft.Extensions.Logging.ILogger.BeginScope(TState)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.<GetEnumerator>d__10:.ctor(Int32)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:StartAsync(TransferFormat, CancellationToken)
+Microsoft.AspNetCore.SignalR.Client.HubConnectionBuilderHttpExtensions:WithUrl(IHubConnectionBuilder, Uri, HttpTransportType, Action`1)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HttpConnectionFactory:ConnectAsync(TransferFormat, CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsyncCore(CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsyncInner(CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsync(CancellationToken)
+HubStuff:.ctor()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+HubStuff:Start()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Debug, Starting, Starting HttpConnection., 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityLog:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger:<Log>g__LoggerLog|12_0(LogLevel, EventId, ILogger, Exception, Func`3, List`1&, TState&)
+Microsoft.Extensions.Logging.Logger:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger`1:Microsoft.Extensions.Logging.ILogger.Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.<>c__DisplayClass4_0:<Define>b__0(ILogger, Exception)
+System.Action`2:Invoke(T1, T2)
+Microsoft.AspNetCore.Http.Connections.Client.Log:Starting(ILogger)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.<GetEnumerator>d__10:.ctor(Int32)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:StartAsyncCore(TransferFormat, CancellationToken)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.<GetEnumerator>d__10:.ctor(Int32)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:StartAsync(TransferFormat, CancellationToken)
+Microsoft.AspNetCore.SignalR.Client.HubConnectionBuilderHttpExtensions:WithUrl(IHubConnectionBuilder, Uri, HttpTransportType, Action`1)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HttpConnectionFactory:ConnectAsync(TransferFormat, CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsyncCore(CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsyncInner(CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsync(CancellationToken)
+HubStuff:.ctor()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+HubStuff:Start()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Debug, EstablishingConnection, Establishing connection with server at 'http://localhost:5000/gamehub'., 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityLog:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger:<Log>g__LoggerLog|12_0(LogLevel, EventId, ILogger, Exception, Func`3, List`1&, TState&)
+Microsoft.Extensions.Logging.Logger:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger`1:Microsoft.Extensions.Logging.ILogger.Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.<>c__DisplayClass5_0`1:<Define>g__Log|0(ILogger, T1, Exception)
+Microsoft.Extensions.Logging.<>c__DisplayClass5_0`1:<Define>b__1(ILogger, T1, Exception)
+System.Action`3:Invoke(T1, T2, T3)
+Microsoft.AspNetCore.Http.Connections.Client.Log:EstablishingConnection(ILogger, Uri)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.<GetEnumerator>d__10:.ctor(Int32)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:NegotiateAsync(Uri, HttpClient, ILogger, CancellationToken)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.<GetEnumerator>d__10:.ctor(Int32)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:GetNegotiationResponseAsync(Uri, CancellationToken)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.<GetEnumerator>d__10:.ctor(Int32)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:SelectAndStartTransport(TransferFormat, CancellationToken)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.<GetEnumerator>d__10:.ctor(Int32)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:StartAsyncCore(TransferFormat, CancellationToken)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.<GetEnumerator>d__10:.ctor(Int32)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:StartAsync(TransferFormat, CancellationToken)
+Microsoft.AspNetCore.SignalR.Client.HubConnectionBuilderHttpExtensions:WithUrl(IHubConnectionBuilder, Uri, HttpTransportType, Action`1)
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HttpConnectionFactory:ConnectAsync(TransferFormat, CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsyncCore(CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsyncInner(CancellationToken)
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.SignalR.Client.HubConnection:StartAsync(CancellationToken)
+HubStuff:.ctor()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+HubStuff:Start()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Error, ErrorWithNegotiation, Failed to start connection. Error getting negotiation response from 'http://localhost:5000/gamehub'., System.IO.InvalidDataException: Invalid negotiation response received. ---> System.IO.InvalidDataException: Missing required property 'connectionId'.
+  at Microsoft.AspNetCore.Http.Connections.NegotiateProtocol.ParseResponse (System.ReadOnlySpan`1[T] content) [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+   --- End of inner exception stack trace ---
+  at Microsoft.AspNetCore.Http.Connections.NegotiateProtocol.ParseResponse (System.ReadOnlySpan`1[T] content) [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+UnityLog:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger:<Log>g__LoggerLog|12_0(LogLevel, EventId, ILogger, Exception, Func`3, List`1&, TState&)
+Microsoft.Extensions.Logging.Logger:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger`1:Microsoft.Extensions.Logging.ILogger.Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.<>c__DisplayClass5_0`1:<Define>g__Log|0(ILogger, T1, Exception)
+Microsoft.Extensions.Logging.<>c__DisplayClass5_0`1:<Define>b__1(ILogger, T1, Exception)
+System.Action`3:Invoke(T1, T2, T3)
+Microsoft.AspNetCore.Http.Connections.Client.Log:ErrorWithNegotiation(ILogger, Uri, Exception)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.<GetEnumerator>d__10:.ctor(Int32)
+System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
+System.Threading.ContextCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.<>c:<.cctor>b__7_0(Object)
+System.Threading.SendOrPostCallback:Invoke(Object)
+UnityEngine.WaitForSeconds:.ctor(Single)
+UnityEngine.UnitySynchronizationContext:Exec()
+UnityEngine.UnitySynchronizationContext:ExecuteTasks()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+EndScope (0abcb0da-9922-4705-a18e-d2b0f0c61296): 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Microsoft.Extensions.Logging.Abstractions.NullLogger`1:.ctor()
+Microsoft.AspNetCore.Http.Connections.Client.Internal.<GetEnumerator>d__10:.ctor(Int32)
+System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
+System.Threading.ContextCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.AwaitTaskContinuation:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue:Dispatch()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BeginScope (c298a03d-1574-457b-b626-c161e2c2b05a): 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityLog:BeginScope(TState)
+System.Runtime.CompilerServices.RuntimeHelpers:IsReferenceOrContainsReferences()
+Microsoft.Extensions.Logging.Logger:BeginScope(TState)
+Microsoft.Extensions.Logging.Logger`1:Microsoft.Extensions.Logging.ILogger.BeginScope(TState)
+Microsoft.AspNetCore.Http.Connections.Client.TransportFailedException:get_TransportType()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.WebSocketsTransport:set_Running(Task)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:DisposeAsync()
+Microsoft.AspNetCore.SignalR.Client.HubConnectionBuilderHttpExtensions:WithUrl(IHubConnectionBuilder, Uri, HttpTransportType, Action`1)
+System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
+System.Threading.ContextCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.<>c:<.cctor>b__7_0(Object)
+System.Threading.SendOrPostCallback:Invoke(Object)
+UnityEngine.WaitForSeconds:.ctor(Single)
+UnityEngine.UnitySynchronizationContext:Exec()
+UnityEngine.UnitySynchronizationContext:ExecuteTasks()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Debug, SkippingDispose, Skipping dispose, connection is already disposed., 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityLog:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger:<Log>g__LoggerLog|12_0(LogLevel, EventId, ILogger, Exception, Func`3, List`1&, TState&)
+Microsoft.Extensions.Logging.Logger:Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.Logger`1:Microsoft.Extensions.Logging.ILogger.Log(LogLevel, EventId, TState, Exception, Func`3)
+Microsoft.Extensions.Logging.<>c__DisplayClass4_0:<Define>b__0(ILogger, Exception)
+System.Action`2:Invoke(T1, T2)
+Microsoft.AspNetCore.Http.Connections.Client.Log:SkippingDispose(ILogger)
+Microsoft.AspNetCore.Http.Connections.Client.TransportFailedException:get_TransportType()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:DisposeAsyncCore()
+Microsoft.AspNetCore.Http.Connections.Client.TransportFailedException:get_TransportType()
+System.Numerics.Vector`1:op_UnaryNegation(Vector`1)
+Microsoft.AspNetCore.Http.Connections.Client.Internal.WebSocketsTransport:set_Running(Task)
+Microsoft.AspNetCore.Http.Connections.Client.HttpConnection:DisposeAsync()
+Microsoft.AspNetCore.SignalR.Client.HubConnectionBuilderHttpExtensions:WithUrl(IHubConnectionBuilder, Uri, HttpTransportType, Action`1)
+System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
+System.Threading.ContextCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.<>c:<.cctor>b__7_0(Object)
+System.Threading.SendOrPostCallback:Invoke(Object)
+UnityEngine.WaitForSeconds:.ctor(Single)
+UnityEngine.UnitySynchronizationContext:Exec()
+UnityEngine.UnitySynchronizationContext:ExecuteTasks()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+EndScope (c298a03d-1574-457b-b626-c161e2c2b05a): 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Microsoft.Extensions.Logging.Abstractions.NullLogger`1:.ctor()
+Microsoft.AspNetCore.Http.Connections.Client.TransportFailedException:get_TransportType()
+System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
+System.Threading.ContextCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.AwaitTaskContinuation:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue:Dispatch()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+EndScope (7409c5c9-d099-4690-b5d9-f7c395b26f43): 
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Microsoft.Extensions.Logging.Abstractions.NullLogger`1:.ctor()
+Microsoft.AspNetCore.Internal.TimerAwaitable:get_IsCompleted()
+System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
+System.Threading.ContextCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.AwaitTaskContinuation:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+System.Threading.ThreadPoolWorkQueue:Dispatch()
+System.Threading._ThreadPoolWaitCallback:PerformWaitCallback()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+InvalidDataException: Missing required property 'connectionId'.
+  at Microsoft.AspNetCore.Http.Connections.NegotiateProtocol.ParseResponse (System.ReadOnlySpan`1[T] content) [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+Rethrow as InvalidDataException: Invalid negotiation response received.
+  at Microsoft.AspNetCore.Http.Connections.NegotiateProtocol.ParseResponse (System.ReadOnlySpan`1[T] content) [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.System_LazyDebugView`1[T].get_Value () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.InvokeAction (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.Run (System.Threading.Tasks.Task task, System.Boolean canInlineContinuationTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageThree () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageTwo () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.Finish (System.Boolean bUserDelegateExecuted) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.System_LazyDebugView`1[T].get_Value () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.InvokeAction (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.Run (System.Threading.Tasks.Task task, System.Boolean canInlineContinuationTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageThree () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageTwo () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.Finish (System.Boolean bUserDelegateExecuted) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.InvokeAction (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.Run (System.Threading.Tasks.Task task, System.Boolean canInlineContinuationTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageThree () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageTwo () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.Finish (System.Boolean bUserDelegateExecuted) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Reflection.TargetParameterCountException..ctor (System.String message) [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.InvokeAction (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.Run (System.Threading.Tasks.Task task, System.Boolean canInlineContinuationTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageThree () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageTwo () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.Finish (System.Boolean bUserDelegateExecuted) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.InvokeAction (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.Run (System.Threading.Tasks.Task task, System.Boolean canInlineContinuationTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageThree () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageTwo () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.Finish (System.Boolean bUserDelegateExecuted) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.InvokeAction (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.Run (System.Threading.Tasks.Task task, System.Boolean canInlineContinuationTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageThree () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageTwo () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.Finish (System.Boolean bUserDelegateExecuted) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Reflection.TargetParameterCountException..ctor (System.String message) [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.CodeAnalysis.EmbeddedAttribute..ctor () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Http.Connections.Client.Internal.ConnectionLogScope+<GetEnumerator>d__10..ctor (System.Int32 <>1__state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ThreadPoolWorkQueue.Dispatch () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Reflection.TargetParameterCountException..ctor (System.String message) [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.SignalR.Client.HubConnectionBuilderHttpExtensions.WithUrl (Microsoft.AspNetCore.SignalR.Client.IHubConnectionBuilder hubConnectionBuilder, System.Uri url, Microsoft.AspNetCore.Http.Connections.HttpTransportType transports, System.Action`1[T] configureHttpConnection) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.SignalR.Client.HubConnectionBuilderHttpExtensions.WithUrl (Microsoft.AspNetCore.SignalR.Client.IHubConnectionBuilder hubConnectionBuilder, System.Uri url, Microsoft.AspNetCore.Http.Connections.HttpTransportType transports, System.Action`1[T] configureHttpConnection) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.System_LazyDebugView`1[T].get_Value () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Internal.TimerAwaitable.get_IsCompleted () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.InvokeAction (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.Run (System.Threading.Tasks.Task task, System.Boolean canInlineContinuationTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageThree () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageTwo () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.Finish (System.Boolean bUserDelegateExecuted) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.SignalR.Client.HubConnectionBuilderHttpExtensions.WithUrl (Microsoft.AspNetCore.SignalR.Client.IHubConnectionBuilder hubConnectionBuilder, System.Uri url, Microsoft.AspNetCore.Http.Connections.HttpTransportType transports, System.Action`1[T] configureHttpConnection) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Reflection.TargetParameterCountException..ctor (System.String message) [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Internal.TimerAwaitable.get_IsCompleted () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.InvokeAction (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.Run (System.Threading.Tasks.Task task, System.Boolean canInlineContinuationTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageThree () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageTwo () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.Finish (System.Boolean bUserDelegateExecuted) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Internal.TimerAwaitable.get_IsCompleted () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.InvokeAction (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation.Run (System.Threading.Tasks.Task task, System.Boolean canInlineContinuationTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageThree () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishStageTwo () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.Finish (System.Boolean bUserDelegateExecuted) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].Create () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.SignalR.Client.HubConnectionBuilderHttpExtensions.WithUrl (Microsoft.AspNetCore.SignalR.Client.IHubConnectionBuilder hubConnectionBuilder, System.Uri url, Microsoft.AspNetCore.Http.Connections.HttpTransportType transports, System.Action`1[T] configureHttpConnection) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Reflection.TargetParameterCountException..ctor (System.String message) [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.CodeAnalysis.EmbeddedAttribute..ctor () [0x00000] in <00000000000000000000000000000000>:0 
+  at Microsoft.AspNetCore.Internal.TimerAwaitable.get_IsCompleted () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ThreadPoolWorkQueue.Dispatch () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback () [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd (System.Threading.Tasks.Task task) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Reflection.TargetParameterCountException..ctor (System.String message) [0x00000] in <00000000000000000000000000000000>:0 
+  at HubStuff..ctor () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation+<>c.<.cctor>b__7_0 (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.SendOrPostCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.WaitForSeconds..ctor (System.Single seconds) [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00000] in <00000000000000000000000000000000>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+HubStuff:.ctor()
+System.Runtime.CompilerServices.MoveNextRunner:InvokeMoveNext(Object)
+System.Threading.ContextCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+System.Action:Invoke()
+System.Threading.Tasks.<>c:<.cctor>b__7_0(Object)
+System.Threading.SendOrPostCallback:Invoke(Object)
+UnityEngine.WaitForSeconds:.ctor(Single)
+UnityEngine.UnitySynchronizationContext:Exec()
+UnityEngine.UnitySynchronizationContext:ExecuteTasks()
+ 
+(Filename: currently not available on il2cpp Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4614 -> priority: 1 
+  Thread -> id: 42c0 -> priority: 1 
+  Thread -> id: 3a7c -> priority: 1 
+  Thread -> id: 3cc0 -> priority: 1 

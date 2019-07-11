@@ -1,0 +1,38 @@
+C:\Users\thorg\OneDrive\Source\Repos\New folder\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\thorg\OneDrive\Source\Repos\New folder\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\thorg\OneDrive\Source\Repos\New folder\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\thorg\OneDrive\Source\Repos\New folder\bin\Debug\netcoreapp3.0\New folder.exe
+C:\Users\thorg\OneDrive\Source\Repos\New folder\bin\Debug\netcoreapp3.0\New folder.deps.json
+C:\Users\thorg\OneDrive\Source\Repos\New folder\bin\Debug\netcoreapp3.0\New folder.runtimeconfig.json
+C:\Users\thorg\OneDrive\Source\Repos\New folder\bin\Debug\netcoreapp3.0\New folder.runtimeconfig.dev.json
+C:\Users\thorg\OneDrive\Source\Repos\New folder\bin\Debug\netcoreapp3.0\New folder.dll
+C:\Users\thorg\OneDrive\Source\Repos\New folder\bin\Debug\netcoreapp3.0\New folder.pdb
+C:\Users\thorg\OneDrive\Source\Repos\New folder\obj\Debug\netcoreapp3.0\New folder.csprojAssemblyReference.cache
+C:\Users\thorg\OneDrive\Source\Repos\New folder\obj\Debug\netcoreapp3.0\staticwebassets\New folder.StaticWebAssets.Manifest.cache
+C:\Users\thorg\OneDrive\Source\Repos\New folder\obj\Debug\netcoreapp3.0\staticwebassets\New folder.StaticWebAssets.xml
+C:\Users\thorg\OneDrive\Source\Repos\New folder\obj\Debug\netcoreapp3.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\thorg\OneDrive\Source\Repos\New folder\obj\Debug\netcoreapp3.0\New folder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thorg\OneDrive\Source\Repos\New folder\obj\Debug\netcoreapp3.0\New folder.AssemblyInfoInputs.cache
+C:\Users\thorg\OneDrive\Source\Repos\New folder\obj\Debug\netcoreapp3.0\New folder.AssemblyInfo.cs
+C:\Users\thorg\OneDrive\Source\Repos\New folder\obj\Debug\netcoreapp3.0\New folder.RazorTargetAssemblyInfo.cache
+C:\Users\thorg\OneDrive\Source\Repos\New folder\obj\Debug\netcoreapp3.0\New folder.dll
+C:\Users\thorg\OneDrive\Source\Repos\New folder\obj\Debug\netcoreapp3.0\New folder.pdb
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\bin\Debug\netcoreapp3.0\New folder.exe
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\bin\Debug\netcoreapp3.0\New folder.deps.json
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\bin\Debug\netcoreapp3.0\New folder.runtimeconfig.json
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\bin\Debug\netcoreapp3.0\New folder.runtimeconfig.dev.json
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\bin\Debug\netcoreapp3.0\New folder.dll
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\bin\Debug\netcoreapp3.0\New folder.pdb
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\obj\Debug\netcoreapp3.0\New folder.csprojAssemblyReference.cache
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\obj\Debug\netcoreapp3.0\staticwebassets\New folder.StaticWebAssets.Manifest.cache
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\obj\Debug\netcoreapp3.0\staticwebassets\New folder.StaticWebAssets.xml
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\obj\Debug\netcoreapp3.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\obj\Debug\netcoreapp3.0\New folder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\obj\Debug\netcoreapp3.0\New folder.AssemblyInfoInputs.cache
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\obj\Debug\netcoreapp3.0\New folder.AssemblyInfo.cs
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\obj\Debug\netcoreapp3.0\New folder.RazorTargetAssemblyInfo.cache
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\obj\Debug\netcoreapp3.0\New folder.dll
+C:\Users\thorg\Desktop\SignalR-IL2CPP-failure-example\SignalR server\obj\Debug\netcoreapp3.0\New folder.pdb
